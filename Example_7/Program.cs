@@ -73,6 +73,6 @@ namespace Example_7
             }
             Console.ReadLine();
         }
-        while (inputString !=  "3"); 
+        while (inputString != "3");
     }
 }

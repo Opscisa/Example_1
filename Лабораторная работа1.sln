@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example_3", "Example_3\Exam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example_4", "Example_4\Example_4.csproj", "{F3901F09-00B7-44F7-9186-389DC77FFA90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_7", "Example_7\Example_7.csproj", "{F95E3F25-C878-4513-83D3-1333ED9DFC8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example_7", "Example_7\Example_7.csproj", "{F95E3F25-C878-4513-83D3-1333ED9DFC8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie_11", "Fibonachi\Zadanie_11.csproj", "{1CD78DAF-AD86-4125-9FBE-86825239E3AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example_6", "Example_6\Example_6.csproj", "{7BD20776-2FB6-42C8-9F83-78DFB154F63A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{F95E3F25-C878-4513-83D3-1333ED9DFC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F95E3F25-C878-4513-83D3-1333ED9DFC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F95E3F25-C878-4513-83D3-1333ED9DFC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CD78DAF-AD86-4125-9FBE-86825239E3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD78DAF-AD86-4125-9FBE-86825239E3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD78DAF-AD86-4125-9FBE-86825239E3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD78DAF-AD86-4125-9FBE-86825239E3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD20776-2FB6-42C8-9F83-78DFB154F63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD20776-2FB6-42C8-9F83-78DFB154F63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD20776-2FB6-42C8-9F83-78DFB154F63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD20776-2FB6-42C8-9F83-78DFB154F63A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
